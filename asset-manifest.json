@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/krcereact/static/css/main.f4f688e9.chunk.css",
-    "main.js": "/krcereact/static/js/main.702a264b.chunk.js",
-    "main.js.map": "/krcereact/static/js/main.702a264b.chunk.js.map",
+    "main.css": "/krcereact/static/css/main.cdce791a.chunk.css",
+    "main.js": "/krcereact/static/js/main.1f280233.chunk.js",
+    "main.js.map": "/krcereact/static/js/main.1f280233.chunk.js.map",
     "runtime-main.js": "/krcereact/static/js/runtime-main.81b9987a.js",
     "runtime-main.js.map": "/krcereact/static/js/runtime-main.81b9987a.js.map",
     "static/css/2.9f939602.chunk.css": "/krcereact/static/css/2.9f939602.chunk.css",
     "static/js/2.3343061d.chunk.js": "/krcereact/static/js/2.3343061d.chunk.js",
     "static/js/2.3343061d.chunk.js.map": "/krcereact/static/js/2.3343061d.chunk.js.map",
     "index.html": "/krcereact/index.html",
-    "precache-manifest.6b2cf1b13533167f0365443eea677d25.js": "/krcereact/precache-manifest.6b2cf1b13533167f0365443eea677d25.js",
+    "precache-manifest.12e44f9a8f50e5befd8249c8f4658564.js": "/krcereact/precache-manifest.12e44f9a8f50e5befd8249c8f4658564.js",
     "service-worker.js": "/krcereact/service-worker.js",
     "static/css/2.9f939602.chunk.css.map": "/krcereact/static/css/2.9f939602.chunk.css.map",
-    "static/css/main.f4f688e9.chunk.css.map": "/krcereact/static/css/main.f4f688e9.chunk.css.map",
+    "static/css/main.cdce791a.chunk.css.map": "/krcereact/static/css/main.cdce791a.chunk.css.map",
     "static/js/2.3343061d.chunk.js.LICENSE.txt": "/krcereact/static/js/2.3343061d.chunk.js.LICENSE.txt",
     "static/media/1550204013.png": "/krcereact/static/media/1550204013.d75ae722.png",
     "static/media/1550204045.png": "/krcereact/static/media/1550204045.29869f08.png",
@@ -38,6 +38,7 @@
     "static/media/1550819425.bmp": "/krcereact/static/media/1550819425.16b9ef73.bmp",
     "static/media/1550819587.bmp": "/krcereact/static/media/1550819587.c74d11ba.bmp",
     "static/media/1550819632.bmp": "/krcereact/static/media/1550819632.fcd9fb28.bmp",
+    "static/media/1550819679.bmp": "/krcereact/static/media/1550819679.154c3fb5.bmp",
     "static/media/1550819738.bmp": "/krcereact/static/media/1550819738.3c688ce4.bmp",
     "static/media/1550819823.bmp": "/krcereact/static/media/1550819823.14b4b591.bmp",
     "static/media/1573199940.jpeg": "/krcereact/static/media/1573199940.3bcd973d.jpeg",
@@ -143,7 +144,7 @@
     "static/js/runtime-main.81b9987a.js",
     "static/css/2.9f939602.chunk.css",
     "static/js/2.3343061d.chunk.js",
-    "static/css/main.f4f688e9.chunk.css",
-    "static/js/main.702a264b.chunk.js"
+    "static/css/main.cdce791a.chunk.css",
+    "static/js/main.1f280233.chunk.js"
   ]
 }

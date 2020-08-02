@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "543fbe1c95f564606b836157fcb51f23",
+    "revision": "5701d24c27cdf3e1ce2149f38872e8c8",
     "url": "/krcereact/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/krcereact/static/css/2.9f939602.chunk.css"
   },
   {
-    "revision": "c6f78a16ff79984129ca",
-    "url": "/krcereact/static/css/main.f4f688e9.chunk.css"
+    "revision": "07e64aa6f285594c807b",
+    "url": "/krcereact/static/css/main.cdce791a.chunk.css"
   },
   {
     "revision": "d9cde8f468392cae870f",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/krcereact/static/js/2.3343061d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c6f78a16ff79984129ca",
-    "url": "/krcereact/static/js/main.702a264b.chunk.js"
+    "revision": "07e64aa6f285594c807b",
+    "url": "/krcereact/static/js/main.1f280233.chunk.js"
   },
   {
     "revision": "fdf45e49d0c66375cd47",
@@ -122,6 +122,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fcd9fb28be2a04faa3aee5022d14e9eb",
     "url": "/krcereact/static/media/1550819632.fcd9fb28.bmp"
+  },
+  {
+    "revision": "154c3fb5496a89d88736a4b22113fe3a",
+    "url": "/krcereact/static/media/1550819679.154c3fb5.bmp"
   },
   {
     "revision": "3c688ce46a5c01e3a7c77c824a60a8a5",
