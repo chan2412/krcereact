@@ -173,27 +173,27 @@ background-color: blue;
     left:0%;
   top:280%;
   width:100%;
-  height:430px;
+  height:550px;
   background-color: grey;
   color:white;
 }
 .o1{position: absolute;
     left:0%;
-  top:375%;
+  top:390%;
   width:100%;
   height:380px;
   background-color: white;
 }
 .o2{position: absolute;
     left:0%;
-  top:465%;
+  top:490%;
   width:100%;
   height:877px;
   background-color: lightgrey;
 }
 .o3{position: absolute;
   left:0%;
-  top:672%;
+  top:700%;
   width:100%;
   height:380px;
   background-color: white;
@@ -245,7 +245,7 @@ background-color: blue;
   background-color:  #184b71;
   position: absolute;
   width:100%;
-  top:500%;
+  top:520%;
 display:flex;
 justify-content: space-between;
 color:white;
@@ -267,4 +267,17 @@ left:10%;  display: grid;
 .rh{
   width:100%;
   height:50%;
+}
+h3{
+  color:black;
+}
+.rc p{
+  text-align: center;
+  color:black;
+}
+.rc{
+  height:150;
+  background-color:orange;
+  border:solid;
+  border-color:black;
 }

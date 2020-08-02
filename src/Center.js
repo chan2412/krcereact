@@ -114,33 +114,34 @@ const v4=require('./no/1550819357.bmp');
 const v5=require('./no/1550819425.bmp');
 const v6=require('./no/1550819587.bmp');
 const v7=require('./no/1550819632.bmp');
-const v8=require('./no/1550819738.bmp');
-const v9=require('./no/1550819823.bmp');
-const v10=require('./no/1573199940.jpeg');
-const v11=require('./no/1573200030.jpg');
-const v12=require('./no/1573200327.jpg');
-const v13=require('./no/1573200366.jpeg');
-const v14=require('./no/1573200390.jpeg');
-const v15=require('./no/1573200417.jpg');
-const v16=require('./no/1573200449.jpg');
-const v17=require('./no/1573200473.jpg');
-const v18=require('./no/1550204090.png');
-const v19=require('./no/1550204067.png');
-const v20=require('./no/1550204045.png');
-const v21=require('./no/1550204013.png');
-const v22=require('./no/1550204154.png');
-const v23=require('./no/1550204188.png');
-const v24=require('./no/1550204214.png');
-const v25=require('./no/1550204235.png');
-const v26=require('./no/1550204248.png');
-const v27=require('./no/1550204730.png');
-const v28=require('./no/1550204750.png');
-const v29=require('./no/1550204766.png');
-const v30=require('./no/1550204782.png');
-const v31=require('./no/1550204797.png');
-const v32=require('./no/1550204812.png');
-const v33=require('./no/1550225570.jpg');
-const v34=require('./no/1550818418.bmp');
+const v8=require('./no/1550819679.bmp');
+const v9=require('./no/1550819738.bmp');
+const v10=require('./no/1550819823.bmp');
+const v11=require('./no/1573199940.jpeg');
+const v12=require('./no/1573200030.jpg');
+const v13=require('./no/1573200327.jpg');
+const v14=require('./no/1573200366.jpeg');
+const v15=require('./no/1573200390.jpeg');
+const v16=require('./no/1573200417.jpg');
+const v17=require('./no/1573200449.jpg');
+const v18=require('./no/1573200473.jpg');
+const v19=require('./no/1550204090.png');
+const v20=require('./no/1550204067.png');
+const v21=require('./no/1550204045.png');
+const v22=require('./no/1550204013.png');
+const v23=require('./no/1550204154.png');
+const v24=require('./no/1550204188.png');
+const v25=require('./no/1550204214.png');
+const v26=require('./no/1550204235.png');
+const v27=require('./no/1550204248.png');
+const v28=require('./no/1550204730.png');
+const v29=require('./no/1550204750.png');
+const v30=require('./no/1550204766.png');
+const v31=require('./no/1550204782.png');
+const v32=require('./no/1550204797.png');
+const v33=require('./no/1550204812.png');
+const v34=require('./no/1550225570.jpg');
+const v35=require('./no/1550818418.bmp');
 
 export default class Center extends Component {
  
@@ -240,48 +241,85 @@ render(){
    <iframe width="350" height="380" src="https://www.youtube.com/embed/mx2G42nbL64"></iframe>
    </div>
    <div class='oo'><h2 style={{position:"absolute",top:"-1%",left:"23%"}}>RANK HOLDERS</h2>
-   <div style={{position:"absolute",top:"13%",left:"3%",backgroundColor:"white",width:"700px",height:"300px"}}>
-   <div style={{position:"absolute",top:"0%",right:"0%",backgroundColor:"white",width:"100%",height:"325px"}}>
+   <div style={{position:"absolute",top:"13%",left:"0%",backgroundColor:"white",width:"800px",height:"250px"}}>
+   <div style={{position:"absolute",top:"0%",right:"0%",backgroundColor:"white",width:"100%",height:"250px"}}>
     <Slider {...seti}>
-    <img class='v1' src={v1} alt="z" width="250" height="210" />
-    <img class='v2' src={v2} alt="z" width="250" height="210" />
-    <img class='v3' src={v3} alt="z" width="500" height="210"/>
-    <img class='v4' src={v4} alt="z" width="500" height="210" />
-    <img class='v5' src={v5} alt="z" width="500" height="210" />
-    <img class='v6' src={v6} alt="z" width="500" height="210"  />
-    <img class='v7' src={v7} alt="z" width="500" height="210" />
-    <img class='v8' src={v8} alt="z" width="500" height="210" />
-    <img class='v9' src={v9} alt="z" width="500" height="210" />
-    <img class='v1' src={v10} alt="z" width="250" height="210" />
-    <img class='xi' src={v11} alt="z" width="250" height="210" />
-    <img class='xi' src={v12} alt="z" width="250" height="210" />
-    <img class='xi' src={v13} alt="z" width="250" height="210" />
-    <img class='xi' src={v14} alt="z" width="250" height="210" />
-    <img class='xi' src={v15} alt="z" width="250" height="210" />
-    <img class='xi' src={v16} alt="z" width="250" height="210" />
-    <img class='xi' src={v17} alt="z" width="250" height="210" />
-    <img class='xi' src={v18} alt="z" width="250" height="210" />
-    <img class='xi' src={v19} alt="z" width="250" height="210" />
-    <img class='xi' src={v20} alt="z" width="250" height="210"/>
-    <img class='xi' src={v21} alt="z" width="250" height="210" />
-    <img class='xi' src={v22} alt="z" width="250" height="210" />
-    <img class='xi' src={v23} alt="z" width="250" height="210" />
-    <img class='xi' src={v24} alt="z" width="250" height="210" />
-    <img class='xi' src={v25} alt="z" width="250" height="210" />
-    <img class='xi' src={v26} alt="z" width="250" height="210"/>
-    <img class='xi' src={v27} alt="z" width="250" height="210"/>
-    <img class='xi' src={v28} alt="z" width="250" height="210"/>
-    <img class='xi' src={v29} alt="z" width="250" height="210"/>
-    <img class='xi' src={v30} alt="z" width="250" height="210"/>
-    <img class='xi' src={v31} alt="z" width="250" height="210"/>
-    <img class='xi' src={v32} alt="z" width="250" height="210"/>
-    <img class='xi' src={v33} alt="z" width="250" height="210" />
-    <img class='xi' src={v34} alt="z" width="250" height="210"/>
-    </Slider>
+   <div class='rc'><img class='v1' src={v1} alt="z" width="200" height="210" /><p>BANUPRIYA M</p>
+   <p>ME-CS(2016-2018)</p><p>4</p></div>
+   <div class='rc'><img class='v2' src={v2} alt="z" width="200" height="210" /><p>KAYALVIZHI R</p>
+   <p>ME-CS(2016-2018)</p><p>11</p></div>
+   <div class='rc'><img class='v1' src={v3} alt="z" width="200" height="210" /><p>SINDHUJA R</p>
+   <p>ME-CS(2016-2018)</p><p>13</p></div>
+   <div class='rc' ><img class='v1' src={v4} alt="z" width="200" height="210" /><p>RAMYA DEVI C</p>
+   <p>ME-CS(2016-2018)</p><p>19</p></div>
+   <div class='rc'><img class='v1' src={v5} alt="z" width="200" height="210" /><p>VIJAYALAKSHMI S</p>
+   <p>ME-CS(2016-2018)</p><p>25</p></div>
+   <div class='rc'><img class='v1' src={v6} alt="z" width="200" height="210" /><p>PRIYATHARSHINI T</p>
+   <p>MBA(2016-2018)</p><p>18</p></div>
+   <div class='rc'><img class='v1' src={v7} alt="z" width="200" height="210" /><p>NIVETHA V</p>
+   <p>MBA(2016-2018)</p><p>30</p></div>
+   <div class='rc'><img class='v1' src={v8} alt="z" width="200" height="210" /><p>VINOTHINI R R</p>
+   <p>MBA(2016-2018)</p><p>33</p></div>
+   <div class='rc'><img class='v1' src={v9} alt="z" width="200" height="210" /><p>REBEKA DAYANA H</p>
+   <p>MBA(2016-2018)</p><p>41</p></div>
+   <div class='rc'><img class='v1' src={v10} alt="z" width="200" height="210" /><p>PRIYATHARSHINI A</p>
+   <p>MBA(2016-2018)</p><p>48</p></div>
+      <div class='rc'><img class='v1' src={v11} alt="z" width="200" height="210" /><p>G.AISHWARYA</p>
+   <p>CSE(2015-2019)</p><p>4</p></div>
+   <div class='rc'><img class='v1' src={v12} alt="z" width="200" height="210" /><p>R.VIJAYA DHARSHINI</p>
+   <p>ECE(2015-2019)</p><p>6</p></div>
+   <div class='rc'><img class='v1' src={v13} alt="z" width="200" height="210" /><p>J.VIJAY YOHESH</p>
+   <p>EEE(2015-2019)</p><p>26</p></div>
+   <div class='rc'><img class='v1' src={v14} alt="z" width="200" height="210" /><p>P.PARANTHAMAN</p>
+   <p>MECH(2015-2019)</p><p>23</p></div>
+   <div class='rc'><img class='v1' src={v15} alt="z" width="200" height="210" /><p>H.GOKUL</p>
+   <p>MECH(2015-2019)</p><p>25</p></div>
+   <div class='rc'><img class='v1' src={v16} alt="z" width="200" height="210" /><p>S.ARUNA</p>
+   <p>MBA (2017-2019)</p><p>13</p></div>
+   <div class='rc'><img class='v1' src={v17} alt="z" width="200" height="210" /><p>E.PRAVEEN KUMAR</p>
+   <p>MBA (2017-2019)</p><p>18</p></div>
+   <div class='rc'><img class='v1' src={v18} alt="z" width="200" height="210" /><p>G.R.RAGAVE</p>
+   <p>MBA (2017-2019)</p><p>22</p></div>
+   <div class='rc'><img class='v1' src={v19} alt="z" width="200" height="210" /><p>ISHWARYA A R</p>
+   <p>CSE(2014-2018)</p><p>50</p></div>
+   <div class='rc'><img class='v1' src={v20} alt="z" width="200" height="210" /><p>VARSHINI V S</p>
+   <p>CSE(2014-2018)</p><p>45</p></div>
+   <div class='rc'><img class='v1' src={v21} alt="z" width="200" height="210" /><p>AKSHAYAH N</p>
+   <p>CSE(2014-2018)</p><p>39</p></div>
+   <div class='rc'><img class='v1' src={v22} alt="z" width="200" height="210" /><p>SUPRAJA S</p>
+   <p>CSE(2014-2018)</p><p>23</p></div>
+   <div class='rc'><img class='v1' src={v23} alt="z" width="200" height="210" /><p>SHOBANA G</p>
+   <p>ECE(2014-2018)</p><p>34</p></div>
+   <div class='rc'><img class='v1' src={v24} alt="z" width="200" height="210" /><p>AARTHI Y</p>
+   <p>ECE(2014-2018)</p><p>38</p></div>
+   <div class='rc'><img class='v1' src={v25} alt="z" width="200" height="210" /><p>REENA S</p>
+   <p>ECE(2014-2018)</p><p>41</p></div>
+   <div class='rc'><img class='v1' src={v26} alt="z" width="200" height="210" /><p>DHARANI S</p>
+   <p>ECE(2014-2018)</p><p>47</p></div>
+   <div class='rc'><img class='v1' src={v27} alt="z" width="200" height="210" /><p>THULASI G</p>
+   <p>ECE(2014-2018)</p><p>48</p></div>
+   <div class='rc'><img class='v1' src={v28} alt="z" width="200" height="210" /><p>MIRUDULA M</p>
+   <p>EEE(2014-2018)</p><p>27</p></div>
+   <div class='rc'><img class='v1' src={v29} alt="z" width="200" height="210" /><p>ANUSUYA M</p>
+   <p>EEE(2014-2018)</p><p>30</p></div>
+   <div class='rc'><img class='v1' src={v30} alt="z" width="200" height="210" /><p>MEENA J</p>
+   <p>EEE(2014-2018)</p><p>38</p></div>
+   <div class='rc'><img class='v1' src={v31} alt="z" width="200" height="210" /><p>RAMESH K C</p>
+   <p>EEE(2014-2018)</p><p>41</p></div>
+   <div class='rc'><img class='v1' src={v32} alt="z" width="200" height="210" /><p>KEERTHANA G</p>
+   <p>EEE(2014-2018)</p><p>49</p></div>
+   <div class='rc'><img class='v1' src={v33} alt="z" width="200" height="210" /><p>AISWARYA G</p>
+   <p>EEE(2014-2018)</p><p>50</p></div>
+   <div class='rc'><img class='v1' src={v34} alt="z" width="200" height="210" /><p>SELVAGANAPATHY P</p>
+   <p> MECH (2014-2018)</p><p>38</p></div>
+   <div class='rc'><img class='v1' src={v35} alt="z" width="200" height="210" /><p>GEETHANJALI P</p>
+   <p>  MBA (2016-2018)</p><p>14</p></div>
+
+   </Slider>
    </div>
    </div>
    <h2 style={{position:"absolute",top:"-1%",right:"13%"}} >EVENT GALLERY</h2>
-   <div style={{position:"absolute",top:"13%",right:"3%",backgroundColor:"white",width:"500px",height:"300px"}}>
+   <div style={{position:"absolute",top:"19%",right:"3%",backgroundColor:"white",width:"500px",height:"300px"}}>
     <Slider {...set}>
     <img class='xi' src={j1} alt="z" width="500" height="300" />
     <img class='xi' src={j2} alt="z" width="500" height="300" />
@@ -391,10 +429,10 @@ render(){
       >
     <img class='xi' src={l1} alt="z" width="150" height="200" />
     <img class='xi' src={l2} alt="z" width="150" height="200" />
-    <img class='xi' src={l3} alt="z" width="150" height="200"/>
+    <img class='xi' src={l3} alt="z" width="150" height="200" />
     <img class='xi' src={l4} alt="z" width="150" height="200" />
     <img class='xi' src={l5} alt="z" width="150" height="200" />
-    <img class='xi' src={l6} alt="z" width="150" height="200"  />
+    <img class='xi' src={l6} alt="z" width="150" height="200" />
     <img class='xi' src={l7} alt="z" width="150" height="200" />
     <img class='xi' src={l8} alt="z" width="150" height="200" />
     <img class='xi' src={l9} alt="z" width="150" height="200" />
